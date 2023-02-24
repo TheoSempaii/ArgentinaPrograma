@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-02-23 03:27:12 p. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDItMjM7MDM6MjA6NDIgcC4gbS47MjY1Nw=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDItMjM7MDM6Mjc6MTIgcC4gbS47MTsyNzY5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <output expression="&quot;Ingrese su nombre&quot;" newline="True"/>
+            <input variable="nombre"/>
+            <output expression="&quot;Hola &quot; &amp; nombre" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

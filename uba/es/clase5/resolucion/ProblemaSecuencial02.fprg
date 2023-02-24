@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-02-23 03:47:16 p. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDItMjM7MDM6Mjc6MTcgcC4gbS47MjY2Ng=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDItMjM7MDM6NDc6MTYgcC4gbS47MTsyNzc1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num1, num2, num3" type="Integer" array="False" size=""/>
+            <declare name="promedio" type="Real" array="False" size=""/>
+            <output expression="&quot;Ingrese el primer numero: &quot;" newline="True"/>
+            <input variable="num1"/>
+            <output expression="&quot;Ingrese el segundo numero: &quot;" newline="True"/>
+            <input variable="num2"/>
+            <output expression="&quot;Ingrese el tercer numero: &quot;" newline="True"/>
+            <input variable="num3"/>
+            <assign variable="promedio" expression="(num1 + num2 + num3) / 3"/>
+            <output expression="&quot;El promedio es &quot; &amp; promedio" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
