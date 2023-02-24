@@ -20,32 +20,19 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
 ## **Índice**
 
 <ul>
-  <li>
-  <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/uba/es"> /es </a> - <i>Aquí se encuentran todas las clases en español (Únicamente documentación)</i>
-    <ul>
-      <li>
-        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/uba/es/clase1"> /clase1 </a>
-      </li>
-      <li>
-        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/uba/es/clase2"> /clase2 </a>
-      </li>
-      <li>
-        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/uba/es/clase3"> /clase3 </a>
-      </li>
-      <li>
-        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/uba/es/clase4"> /clase4 </a>
-      </li>
-      <li>
-        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/uba/es/clase5"> /clase5 </a>
-      </li>
-      <li>
-        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/uba/es/clase6"> /clase6 </a>
-      </li>
-    </ul>
-  </li>
 
   <li>
-  /en &bull; <i>Here you will find all the classes in English (Documentation only).</i>
+    <a href=""> /es </a>
+    <ul>
+      <li> 
+        /uba
+         <ul>
+          <li>
+            a
+          </li>
+         </ul>
+      </li>
+    </ul>
   </li>
 
 </ul>
