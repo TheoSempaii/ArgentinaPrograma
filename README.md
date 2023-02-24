@@ -22,13 +22,28 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
 <ul>
 
   <li>
-    <a href=""> /es </a>
+    <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es"> /es </a>
     <ul>
-      <li> 
-        /uba
+      <li>
+        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba"> /uba </a>
          <ul>
           <li>
-            a
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase1"> /clase1 </a>
+          </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase2"> /clase2 </a>
+          </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase3"> /clase3 </a>
+          </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase4"> /clase4 </a>
+          </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase5"> /clase5 </a>
+          </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase6"> /clase6 </a>
           </li>
          </ul>
       </li>
