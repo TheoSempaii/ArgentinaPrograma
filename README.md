@@ -45,6 +45,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase6"> /clase6 </a>
           </li>
+                    <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase6"> /clase7 </a>
+          </li>
          </ul>
       </li>
     </ul>
