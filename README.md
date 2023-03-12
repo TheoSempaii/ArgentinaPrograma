@@ -22,7 +22,7 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
 <ul>
 
   <li>
-    <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es"> /es </a> - Sección en inglés
+    <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es"> /es </a> - Sección en español
     <ul>
       <li>
         <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba"> /uba </a> - Hecho por la Universidad de Buenos Aires
