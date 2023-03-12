@@ -43,7 +43,6 @@ public class clase8 {
 
   public void diaDeLaSemana() {
     int dia;
-    String nombreDia = "";
     boolean validDay = true;
     System.out.println("Ingresa un numero de dia de la semana:");
     dia = scanner.nextInt();
