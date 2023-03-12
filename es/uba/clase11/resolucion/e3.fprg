@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-10 11:57:21 p. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMDk7MTE6MjU6MzUgcC4gbS47MjY2OA=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTA7MTE6NTc6MjEgcC4gbS47MTsyNzY4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="valor1" type="Integer" array="False" size=""/>
+            <declare name="valor2" type="Integer" array="False" size=""/>
+            <declare name="valor3" type="Integer" array="False" size=""/>
+            <declare name="menor" type="Integer" array="False" size=""/>
+            <declare name="mayor" type="Integer" array="False" size=""/>
+            <input variable="valor1"/>
+            <input variable="valor2"/>
+            <if expression="valor1 == valor2">
+                <then>
+                    <output expression="&quot;Ingresaste el mismo valor&quot;" newline="True"/>
+                    <assign variable="mayor" expression="valor1"/>
+                    <assign variable="menor" expression="valor1"/>
+                </then>
+                <else>
+                    <if expression="valor1 &lt; valor2">
+                        <then>
+                            <assign variable="mayor" expression="valor2"/>
+                            <assign variable="menor" expression="valor1"/>
+                        </then>
+                        <else>
+                            <assign variable="mayor" expression="valor1"/>
+                            <assign variable="menor" expression="valor2"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+            <input variable="valor3"/>
+            <if expression="valor3 == valor2 || valor3 == valor1">
+                <then>
+                    <output expression="&quot;Ingresaste el mismo valor&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="valor3 &gt; mayor">
+                        <then>
+                            <assign variable="mayor" expression="valor3"/>
+                        </then>
+                        <else/>
+                    </if>
+                    <if expression="valor3 &lt; menor">
+                        <then>
+                            <assign variable="menor" expression="valor3"/>
+                        </then>
+                        <else/>
+                    </if>
+                </else>
+            </if>
+            <output expression="valor1 &amp; valor2 &amp; valor3 &amp; menor &amp; mayor" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

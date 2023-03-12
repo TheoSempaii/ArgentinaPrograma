@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-11 08:32:51 a. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MDg6MjA6NDEgYS4gbS47MjY0NA=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MDg6MzI6NTEgYS4gbS47MTsyNzU2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="radio" type="Real" array="False" size=""/>
+            <input variable="radio"/>
+            <output expression="&quot;El volumen de la esfera es &quot; &amp; ((4/3)* (3.14159265359*radio*radio*radio))" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-12 07:37:07 p. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTI7MDc6MzI6MjcgcC4gbS47MjY2Ng=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTI7MDc6Mzc6MDcgcC4gbS47NDsyNzgw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="examen1" type="Integer" array="False" size=""/>
+            <declare name="examen2" type="Integer" array="False" size=""/>
+            <declare name="examen3" type="Integer" array="False" size=""/>
+            <input variable="examen1"/>
+            <input variable="examen3"/>
+            <input variable="examen2"/>
+            <output expression="&quot;El promedio es: &quot; &amp; ((examen1+examen2+examen3)/3)" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

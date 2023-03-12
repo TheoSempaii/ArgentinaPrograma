@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-12 07:35:49 p. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTI7MDc6MzI6MjcgcC4gbS47MjY2Ng=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTI7MDc6MzU6NDkgcC4gbS47MzsyNzgz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="valor1" type="Integer" array="False" size=""/>
+            <declare name="valor2" type="Integer" array="False" size=""/>
+            <input variable="valor1"/>
+            <input variable="valor2"/>
+            <if expression="valor1 &gt; valor2">
+                <then>
+                    <output expression="&quot;El valor &quot; &amp; valor1 &amp; &quot; es mayor a &quot; &amp; valor2" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;El valor &quot; &amp; valor2 &amp; &quot; es mayor a &quot; &amp; valor1" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-11 08:20:32 a. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MTI6MjY6MzYgYS4gbS47MjY0OQ=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MDg6MjA6MzIgYS4gbS47MTsyNzUy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="N" type="Integer" array="False" size=""/>
+            <declare name="totalM" type="Integer" array="False" size=""/>
+            <declare name="Nota" type="Integer" array="False" size=""/>
+            <declare name="total" type="Integer" array="False" size=""/>
+            <assign variable="total" expression="0"/>
+            <input variable="totalM"/>
+            <assign variable="N" expression="totalM"/>
+            <while expression="N &gt; 0">
+                <output expression="&quot;Ingresa una nota. &quot; &amp; N &amp;  &quot; restantes&quot;" newline="True"/>
+                <input variable="Nota"/>
+                <assign variable="total" expression="total + Nota"/>
+                <assign variable="N" expression="N-1"/>
+            </while>
+            <output expression="&quot;El promedio es &quot; &amp; (total/totalM)" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

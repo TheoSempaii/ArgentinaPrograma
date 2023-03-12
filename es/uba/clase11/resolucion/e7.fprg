@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-11 12:26:33 a. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MTI6MTg6NTYgYS4gbS47MjY1Mg=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MTI6MjY6MzMgYS4gbS47MTsyNzU0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="valor" type="Integer" array="False" size=""/>
+            <declare name="contador" type="Integer" array="False" size=""/>
+            <declare name="primo" type="Boolean" array="False" size=""/>
+            <assign variable="primo" expression="true"/>
+            <assign variable="contador" expression="1"/>
+            <input variable="valor"/>
+            <while expression="contador &lt; valor">
+                <if expression="(contador != 0 &amp;&amp; contador != 1 &amp;&amp; contador != valor) &amp;&amp; valor % contador == 0">
+                    <then>
+                        <assign variable="primo" expression="false"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="contador" expression="contador + 1"/>
+            </while>
+            <if expression="primo">
+                <then>
+                    <output expression="&quot;El valor &quot; &amp; valor &amp; &quot; es primo&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;El valor &quot; &amp; valor &amp; &quot; no es primo&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
