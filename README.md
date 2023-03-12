@@ -54,6 +54,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase9"> /clase9 </a> - Diagramas de Flujo Iterativa
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase10"> /clase10 </a> - Ejercitación Algoritmos Iterativos
+          </li>
         </ul>
       </li>
     </ul>
