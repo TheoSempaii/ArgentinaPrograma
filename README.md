@@ -57,8 +57,11 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase10"> /clase10 </a> - Ejercitación Algoritmos Iterativos
           </li>
-            <li>
+          <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase11"> /clase11 </a> - Ejercitación integral
+          </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase12"> /clase12 </a> - Espacio para entrega de ejercicios
           </li>
         </ul>
       </li>

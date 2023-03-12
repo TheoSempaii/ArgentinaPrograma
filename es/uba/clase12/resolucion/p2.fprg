@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-11 09:09:09 a. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MDk6MDM6MjkgYS4gbS47MjY1Mg=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MDk6MDk6MDkgYS4gbS47MTsyNzY0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="horas" type="Integer" array="False" size=""/>
+            <declare name="bruto" type="Integer" array="False" size=""/>
+            <declare name="neto" type="Integer" array="False" size=""/>
+            <input variable="horas"/>
+            <assign variable="bruto" expression="horas*700"/>
+            <assign variable="neto" expression="bruto-((bruto*18)/100)"/>
+            <output expression="&quot;El sueldo neto para &quot; &amp; horas &amp; &quot; horas trabajadas es $&quot; &amp; neto" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

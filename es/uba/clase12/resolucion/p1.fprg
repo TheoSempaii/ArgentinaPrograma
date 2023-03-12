@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="emanu"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-11 09:03:26 a. m."/>
+        <attribute name="created" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MDg6NDg6MDYgYS4gbS47MjY1NQ=="/>
+        <attribute name="edited" value="ZW1hbnU7RU1BTlVFTFBDOzIwMjMtMDMtMTE7MDk6MDM6MjYgYS4gbS47MTsyNzU3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="entrada" type="Integer" array="False" size=""/>
+            <declare name="salida" type="Integer" array="False" size=""/>
+            <declare name="horasACobrar" type="Integer" array="False" size=""/>
+            <declare name="cobrar" type="Integer" array="False" size=""/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <assign variable="cobrar" expression="0"/>
+            <input variable="entrada"/>
+            <input variable="salida"/>
+            <if expression="entrada &gt; 24 || salida &gt; 24 || entrada &lt; 0 || salida &lt; 0">
+                <then>
+                    <output expression="&quot;Introduce un valor valido 0hs a 24hs&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="entrada &gt; salida">
+                        <then>
+                            <assign variable="horasACobrar" expression="(24-entrada) + salida"/>
+                        </then>
+                        <else>
+                            <assign variable="horasACobrar" expression="salida-entrada"/>
+                        </else>
+                    </if>
+                    <for variable="i" start="1" end="horasACobrar" direction="inc" step="1">
+                        <if expression="i == 1">
+                            <then>
+                                <assign variable="cobrar" expression="cobrar+1500"/>
+                            </then>
+                            <else>
+                                <assign variable="cobrar" expression="cobrar+1000"/>
+                            </else>
+                        </if>
+                    </for>
+                    <output expression="&quot;El total a cobrar es: $&quot; &amp; cobrar" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
