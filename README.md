@@ -22,33 +22,36 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
 <ul>
 
   <li>
-    <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es"> /es </a>
+    <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es"> /es </a> <p>Sección en inglés</p>
     <ul>
       <li>
-        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba"> /uba </a>
-         <ul>
+        <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba"> /uba </a> <p>Hecho por la Universidad de Buenos Aires</p>
+        <ul>
           <li>
-            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase1"> /clase1 </a>
-          </li>
-          <li>
-            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase2"> /clase2 </a>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase1"> /clase1 </a> <p>Introducción a la programación</p>
           </li>
           <li>
-            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase3"> /clase3 </a>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase2"> /clase2 </a> <p>Sistemas operativos - Compiladores e intérpretes - Paradigmas de programación</p>
           </li>
           <li>
-            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase4"> /clase4 </a>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase3"> /clase3 </a> <p>Programación Web y Conceptos básicos relacionados a Internet - Proceso de desarrollo de software</p>
           </li>
           <li>
-            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase5"> /clase5 </a>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase4"> /clase4 </a> <p>Primeros Algoritmos - pseudocódigo</p>
           </li>
           <li>
-            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase6"> /clase6 </a>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase5"> /clase5 </a> <p>Diagramas de Flujo Secuencial</p>
           </li>
-                    <li>
-            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase6"> /clase7 </a>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase6"> /clase6 </a> <p>Ejercitación Algoritmos Secuencial</p>
           </li>
-         </ul>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase7"> /clase7 </a> <p>Diagramas de Flujo Condicional</p>
+          </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase8"> /clase8 </a> <p>Ejercitación Algoritmos Condicional</p>
+          </li>
+        </ul>
       </li>
     </ul>
   </li>
