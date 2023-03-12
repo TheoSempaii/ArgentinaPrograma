@@ -51,6 +51,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase8"> /clase8 </a> - Ejercitación Algoritmos Condicional
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase9"> /clase9 </a> - Diagramas de Flujo Iterativa
+          </li>
         </ul>
       </li>
     </ul>
