@@ -63,6 +63,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase12"> /clase12 </a> - Espacio para entrega de ejercicios
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase13"> /clase13 </a> - Conceptos básicos Java
+          </li>
         </ul>
       </li>
     </ul>
