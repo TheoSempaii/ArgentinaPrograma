@@ -69,6 +69,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase14"> /clase14 </a> - Variables, tipos de datos y operadores básicos
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase15"> /clase15 </a> - Estructura e indentación del código
+          </li>
         </ul>
       </li>
     </ul>
