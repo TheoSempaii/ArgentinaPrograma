@@ -66,6 +66,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase13"> /clase13 </a> - Conceptos básicos Java
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase14"> /clase14 </a> - Variables, tipos de datos y operadores básicos
+          </li>
         </ul>
       </li>
     </ul>
