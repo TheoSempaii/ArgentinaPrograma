@@ -72,6 +72,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase15"> /clase15 </a> - Estructura e indentación del código
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase16"> /clase16 </a> - Programación web
+          </li>
         </ul>
       </li>
     </ul>
