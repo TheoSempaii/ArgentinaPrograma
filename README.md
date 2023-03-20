@@ -75,6 +75,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase16"> /clase16 </a> - Programación web
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase17"> /clase17 </a> - Clases y objetos, Constructores y creación de objetos, Acceso a variables y métodos de clase
+          </li>
         </ul>
       </li>
     </ul>
