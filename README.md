@@ -84,6 +84,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase19"> /clase19 </a> - Resolver problemas creando algoritmos con objetos, como en la vida real
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase20"> /clase20 </a> - Estructura de datos - Generics - Arrays - List
+          </li>
         </ul>
       </li>
     </ul>
