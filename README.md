@@ -87,6 +87,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase20"> /clase20 </a> - Estructura de datos - Generics - Arrays - List
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase21"> /clase21 </a> - Estructura de datos Parte 2 - Map - Set - Colas - Pilas
+          </li>
         </ul>
       </li>
     </ul>
