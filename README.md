@@ -90,6 +90,9 @@ El programa es impulsado por el Ministerio de Economía de la Nación con apoyo 
           <li>
             <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase21"> /clase21 </a> - Estructura de datos Parte 2 - Map - Set - Colas - Pilas
           </li>
+          <li>
+            <a href="https://github.com/TheoSempaii/ArgentinaPrograma/tree/master/es/uba/clase22"> /clase22 </a> - Strings - Manejo de Fechas
+          </li>
         </ul>
       </li>
     </ul>
